@@ -36,9 +36,9 @@ const Footer = () => {
     <div className="container mx-auto text-center">
       <p className="text-lg mb-2">© 2024 Muhammad Sufyan. All rights reserved.</p>
       <div className="flex justify-center space-x-4">
-        <a href="#" className="hover:text-blue-500 transition duration-300">Facebook</a>
-        <a href="#" className="hover:text-blue-500 transition duration-300">LinkedIn</a>
-        <a href="#" className="hover:text-blue-500 transition duration-300">Instagram</a>
+        <a href="https://www.facebook.com/profile.php?id=100094725213969" className="hover:text-blue-500 transition duration-300">Facebook</a>
+        <a href="https://www.linkedin.com/in/sufyan-jutt-bb57072a7/" className="hover:text-blue-500 transition duration-300">LinkedIn</a>
+        <a href="https://www.upwork.com/freelancers/~01949e2dbbb0f7493a" className="hover:text-blue-500 transition duration-300">Upwork</a>
       </div>
     </div>
   </footer>
