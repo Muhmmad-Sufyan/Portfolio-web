@@ -31,15 +31,15 @@ const Contact = () => {
                     <h2 className="text-2xl font-bold text-center">Send Us A Message</h2>
                     <form className="max-w-2xl mx-auto mt-8 space-y-8">
                         <div>
-                            <label htmlfor="name" className="block text-gray-700 font-bold">Name</label>
+                            <label className="block text-gray-700 font-bold">Name</label>
                             <input type="text" id="name" className="w-full mt-2 p-3 border rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-500 transition" />
                         </div>
                         <div>
-                            <label htmlfor="email" className="block text-gray-700 font-bold">Email</label>
+                            <label  className="block text-gray-700 font-bold">Email</label>
                             <input type="email" id="email" className="w-full mt-2 p-3 border rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-500 transition" />
                         </div>
                         <div>
-                            <label htmlfor="message" className="block text-gray-700 font-bold">Message</label>
+                            <label  className="block text-gray-700 font-bold">Message</label>
                             <textarea id="message" rows={5} className="w-full mt-2 p-3 border rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-green-500 transition" defaultValue={""} />
                         </div>
                         <button type="submit" className="w-full bg-green-700 text-white py-3 rounded-lg shadow-lg hover:bg-green-600 transition-colors">Send Message</button>
