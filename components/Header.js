@@ -13,10 +13,11 @@ const Header = () => {
             <div className="px-4 mx-auto max-w-7xl sm:px-6">
                 <div className="relative flex items-center justify-between py-4">
                     <div className="flex items-center">
+        <a href="/">
                         <h4 className="header rounded-lg bg-gray-800 text-white text-3xl font-bold py-4 px-6 transform hover:rotate-x-360 hover:scale-110 transition-transform duration-500 flex gap-x-2">
                             <img src="https://sufyan-j.netlify.app/el.png" className="w-10" /> Sufyan
                         </h4>
-
+        </a>
                     </div>
                     <button
                         className="ml-4 md:hidden inline-flex items-center justify-center p-2 text-gray-400 hover:text-gray-600 focus:outline-none focus:ring-2 focus:ring-inset"
