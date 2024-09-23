@@ -51,7 +51,7 @@ const Portfolio = () => {
     </section>
       <div className="text-center mt-10">
         <a
-          href="/all-projects" // Change this link to your actual route
+          href="/portfolio" // Change this link to your actual route
           className="inline-block text-white bg-blue-500 px-6 py-3 rounded-full hover:bg-blue-600 transition duration-300"
         >
           View All
