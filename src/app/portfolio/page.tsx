@@ -54,7 +54,7 @@ const Portfolio = () => {
         {
           title: 'Portfolio Website',
           description: 'Portfolio website design',
-          liveLink: 'https://suf16.netlify.app/',
+          liveLink: 'https://suf16.netlify.appnp/',
           image: '/9.png',
         },
       ];
