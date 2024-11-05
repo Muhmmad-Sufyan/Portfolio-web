@@ -14,7 +14,7 @@ export default function Home() {
       <div className="w-full max-w-lg aspect-[485/402]">
         <iframe 
           src="https://scratch.mit.edu/projects/141677189/embed" 
-          allowTransparency="true" 
+          
           allowFullScreen 
           frameBorder="0" 
           scrolling="no"
