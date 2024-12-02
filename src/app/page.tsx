@@ -10,7 +10,7 @@ export default function Home() {
       <Portfolio />
       <About />
       <Footer />  
-      <div className="flex justify-center items-center p-4 mt-10">
+      {/* <div className="flex justify-center items-center p-4 mt-10">
       <div className="w-full max-w-lg aspect-[485/402]">
         <iframe 
           src="https://scratch.mit.edu/projects/141677189/embed" 
@@ -21,7 +21,7 @@ export default function Home() {
           className="w-full h-full rounded-lg shadow-lg border border-gray-300"
         />
       </div>
-    </div>
+    </div> */}
     </>
   );
 }
